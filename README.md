@@ -33,3 +33,5 @@ Do poprawnego działania aplikacji wymagane jest dodanie następujących zmienny
 - SEARCH_FOR= jakiej frazy wyszukiwać w pliku PDF ze zmianami, np. III DBT
 
 UWAGA: Każda, nawet najdrobniejsza aktualizacja interfejsu użytkownika dziennika UONET+ lub OneDrive może spowodować, że aplikacja nie będzie działać poprawnie.
+
+![image](https://github.com/user-attachments/assets/f30cf6f5-53f9-4790-aa33-fedc739c0209)
