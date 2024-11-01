@@ -15,8 +15,6 @@ The following environment variables are required to be added for the application
 
 NOTE: Any update, even the slightest, to the UONET+ or OneDrive log user interface may cause the app to not function properly.
 
-Translated with DeepL.com (free version)
-
 [PL] Skrypt, który co godzinę automatycznie loguje się do dziennika VULCAN i sprawdza czy w module wiadomości zostały wysłane zmiany w planie lekcji.
 
 Projekt został przygotowany specjalnie dla uczniów mechanikryki.pl
