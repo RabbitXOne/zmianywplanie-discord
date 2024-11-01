@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.3",
+    "pdf-img-convert": "^1.2.1",
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^23.3.0"
+  },
+  "name": "zmianywplanie-discord",
+  "version": "1.2.1",
+  "description": "Automatyczne wysyłanie zmian w planie lekcji ZSZ na kanał Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Filip P.",
+  "license": "ISC"
+}
