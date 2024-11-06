@@ -242,7 +242,7 @@ console.log('Running the script... (first run)');
 run();
 
 console.log('Cron scheduled');
-cron.schedule('0 30 */1 * * *', () => {
+cron.schedule('0 0 */1 * * *', () => {
     console.log('Starting the script... (scheduled run)');
     run();
 });
